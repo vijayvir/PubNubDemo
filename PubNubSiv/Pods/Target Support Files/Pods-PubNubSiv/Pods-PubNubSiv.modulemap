@@ -1,0 +1,6 @@
+framework module Pods_PubNubSiv {
+  umbrella header "Pods-PubNubSiv-umbrella.h"
+
+  export *
+  module * { export * }
+}
